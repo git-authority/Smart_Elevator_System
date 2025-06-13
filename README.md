@@ -36,8 +36,7 @@ The elevator is treated as an agent operating in an environment of multiple floo
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/elevator-ai-optimizer.git
-   cd elevator-ai-optimizer
+   git clone https://github.com/<your-username>/Smart_Elevator_System.git
    ```
 
 2. **Install dependencies**
@@ -52,7 +51,7 @@ The elevator is treated as an agent operating in an environment of multiple floo
 Run the main script:
 
 ```bash
-python elevator_simulation.py
+python Smart_Elevator_System.py
 ```
 
 You will be prompted to:
